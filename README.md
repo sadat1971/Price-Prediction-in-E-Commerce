@@ -44,7 +44,19 @@ To predict the price, I had to tackle the problem following the standard data sc
     - Use Light GBM to compare the performance.
     - Build an ensemble model with Light GBM and Ridge regression and compare the performance. 
     
- 
+ **Resutlts and take-home information**
+
+From the analysis and result-comparison, i found that ensemble method performed better than using one single method. The result also indicates to the fact that, ensembling with different techniques might also be helpful to predict the price. 
+
+**What could be done in the future?**
+
+* USing other word embedding techniques like skip-gram and continuous-bag-of-words
+* Observe the performance by reducing the feature dimension (PCA)
+* Using differnt regression algorithm and observe the performance
+* Tuning the hyperparameters in a much meticulous way
+* Using creative techniques to ensemble. For example, assign different weights tob different algorithms. 
+* Adopting 
+
  
 
  
