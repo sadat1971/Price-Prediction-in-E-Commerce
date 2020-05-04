@@ -19,7 +19,18 @@ To predict the price, I had to tackle the problem following the standard data sc
 
 #### Codes ####
 
-* /01_basic_data_analysis_and_visulization.ipynb/: 
+* 01_basic_data_analysis_and_visulization.ipynb: The task of the code can be subdivided in following groups:
+
+ - ejhfoe
+ 
+ - hjfoh3oi
+ 
+ - rejk
+ 
+* jkrjk2kk:
+ -jhrj2
+ -8u49
+ 
 
 
 
