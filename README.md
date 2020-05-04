@@ -21,15 +21,32 @@ To predict the price, I had to tackle the problem following the standard data sc
 
 * 01_basic_data_analysis_and_visulization.ipynb: The task of the code can be subdivided in following groups:
 
- - ejhfoe
+  - ETLing the data from source
+  - setting up the environment
+  - Wrangling the data
+  - Perform basic descriptive analysis from the features
+  - Provide necessary visualization for the price distribution in many cases
+  - Subdividing the groups if needed
+  - Analyzing individual features and see if there's any effect
+  
+ * 02_NLP_analysis_and_visualization.ipynb: The main tasks are;
  
- - hjfoh3oi
+   - Analyzing the natural-language-features in simplest way
+   - Which normalizations should we do for the NLP purposes and is there any effect?
+   - Using the standard techniques like bag-of-words and n-grams, and also using word-embedding techniques like count vectorizer and tf-idf to vectorize the text features.
+   - Visualization of performance with defferent NLP techniques.
+   
+  * 03_prediction_and_performance_comparison.ipynb: This code mainly wraps up some knowledge from the previous codes and performs prediction:
+  
+    - Summurizing the knowledge from our EDA. 
+    - Perform all necessary feature transformation to perform machine learning algorithms.
+    - Treat the problem as regression and using ridge and lasso to decide what to use.
+    - Use Light GBM to compare the performance.
+    - Build an ensemble model with Light GBM and Ridge regression and compare the performance. 
+    
  
- - rejk
  
-* jkrjk2kk:
- -jhrj2
- -8u49
+
  
 
 
